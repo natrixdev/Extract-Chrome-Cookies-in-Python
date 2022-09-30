@@ -1,7 +1,9 @@
 # Extract-Chrome-Cookies-in-Python
 Learn how to extract Google Chrome browser saved cookies and decrypt them on your Windows machine in Python.
 
-  `$ pip3 install pycryptodome pypiwin32`
+# 𝙉𝙖𝙩𝙧𝙞𝙭 𝙋𝙮𝙩𝙝𝙤𝙣 𝙃𝙖𝙘𝙠𝙞𝙣𝙜 #1
+
+`$ pip3 install pycryptodome pypiwin32`
   
 ## Open up a new Python file and import the necessary modules:
 
